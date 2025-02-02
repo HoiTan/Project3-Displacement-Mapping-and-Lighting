@@ -1,0 +1,4 @@
+
+0(28) : error C0000: syntax error, unexpected reserved word "float", expecting ',' or ';' at token "float"
+0(37) : error C1503: undefined variable "normal"
+
