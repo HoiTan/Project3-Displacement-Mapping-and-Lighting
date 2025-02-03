@@ -1,4 +1,8 @@
 
-0(28) : error C0000: syntax error, unexpected reserved word "float", expecting ',' or ';' at token "float"
-0(37) : error C1503: undefined variable "normal"
+0(25) : error C0000: syntax error, unexpected identifier, expecting ')' at token "pix"
+0(27) : error C1503: undefined variable "z"
+0(29) : error C0000: syntax error, unexpected identifier, expecting ',' or ')' at token "pi"
+0(30) : error C0000: syntax error, unexpected identifier, expecting ')' at token "pivert"
+0(31) : error C1503: undefined variable "dzdx"
+0(32) : error C1503: undefined variable "dzdy"
 
